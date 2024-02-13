@@ -1,1 +1,3 @@
-
+The dataset includes information on student performance, with each row representing an individual student. Columns capture attributes such as gender, race/ethnicity, parental level of education, lunch type, test preparation course completion, and scores in math, reading, and writing.
+Categorical variables include 'gender' (male/female), 'race/ethnicity' (group A, B, C, D), 'parental level of education' (various education levels), 'lunch' (standard/free/reduced), and 'test preparation course' (none/completed).
+Numerical variables consist of 'math score,' 'reading score,' and 'writing score,' representing the student's performance in the corresponding subjects.
